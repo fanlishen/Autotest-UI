@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_1</name>
+   <tag></tag>
+   <elementGuidId>11f25dbe-8897-4155-932e-afc41f67f2aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;app&quot;)/div[1]/div[1]/div[1]/div[1]/div[1]/div[@class=&quot;swiper-wrap-root&quot;]/div[@class=&quot;easy-swiper-wrapper clearfix&quot;]/div[@class=&quot;swiper-wrap&quot;]/div[@id=&quot;single-card&quot;]/div[@class=&quot;content&quot;]/ul[1]/li[2][count(. | //li[(text() = '否' or . = '否')]) = count(//li[(text() = '否' or . = '否')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>否</value>
+   </webElementProperties>
+</WebElementEntity>

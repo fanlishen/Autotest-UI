@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+chooseStudent,Chrome 68.0.3440.106,,2018-08-20 17:30:21,2018-08-20 17:31:30,1m - 8.663s,FAILED
+,,,,,,
+Test Cases/Common Test Cases/loginstudent,Chrome 68.0.3440.106,,2018-08-20 17:30:22,2018-08-20 17:30:30,8.650s,PASSED
+Statement - data = com.kms.katalon.core.testdata.TestDataFactory.findTestData(account),Chrome 68.0.3440.106,,2018-08-20 17:30:22,2018-08-20 17:30:22,0.001s,PASSED
+Statement - For (def index : (0..(data.getRowNumbers() - 1))),Chrome 68.0.3440.106,,2018-08-20 17:30:22,2018-08-20 17:30:30,8.483s,PASSED
+,,,,,,
+Test Cases/Common Test Cases/changePassword,Chrome 68.0.3440.106,,2018-08-20 17:30:30,2018-08-20 17:30:49,19.008s,PASSED
+setText,Chrome 68.0.3440.106,,2018-08-20 17:30:30,2018-08-20 17:30:33,3.099s,PASSED
+setText,Chrome 68.0.3440.106,,2018-08-20 17:30:33,2018-08-20 17:30:34,0.119s,PASSED
+setText,Chrome 68.0.3440.106,,2018-08-20 17:30:34,2018-08-20 17:30:34,0.103s,PASSED
+click,Chrome 68.0.3440.106,,2018-08-20 17:30:34,2018-08-20 17:30:34,0.191s,PASSED
+delay,Chrome 68.0.3440.106,,2018-08-20 17:30:34,2018-08-20 17:30:36,2.015s,PASSED
+setText,Chrome 68.0.3440.106,,2018-08-20 17:30:36,2018-08-20 17:30:37,1.129s,PASSED
+delay,Chrome 68.0.3440.106,,2018-08-20 17:30:37,2018-08-20 17:30:39,2.002s,PASSED
+setText,Chrome 68.0.3440.106,,2018-08-20 17:30:39,2018-08-20 17:30:39,0.108s,PASSED
+delay,Chrome 68.0.3440.106,,2018-08-20 17:30:39,2018-08-20 17:30:44,5.004s,PASSED
+click,Chrome 68.0.3440.106,,2018-08-20 17:30:44,2018-08-20 17:30:44,0.116s,PASSED
+delay,Chrome 68.0.3440.106,,2018-08-20 17:30:44,2018-08-20 17:30:49,5.002s,PASSED
+,,,,,,
+Test Cases/Main Test Cases/subjectInterest/subjectInterest,Chrome 68.0.3440.106,,2018-08-20 17:30:49,2018-08-20 17:30:57,7.393s,FAILED
+click,Chrome 68.0.3440.106,,2018-08-20 17:30:49,2018-08-20 17:30:56,6.325s,PASSED
+click,Chrome 68.0.3440.106,,2018-08-20 17:30:56,2018-08-20 17:30:57,0.943s,FAILED
+,,,,,,
+Test Cases/Main Test Cases/subjectInterest/subjectIntestSort,Chrome 68.0.3440.106,,2018-08-20 17:30:57,2018-08-20 17:31:29,32.513s,FAILED
+Statement - If (com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Page_subjcetInterest/page_sort/Page_/div_subjectinterestitem) != null),Chrome 68.0.3440.106,,2018-08-20 17:30:57,2018-08-20 17:31:29,32.404s,FAILED

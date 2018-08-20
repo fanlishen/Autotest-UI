@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>10be4320-3b57-4fc7-b85c-9051b92b8cb9</testCaseGuid>
+   <variable>
+      <defaultValue>'否'</defaultValue>
+      <description></description>
+      <id>b09747b4-f9c8-4040-a86c-f9ddad83d67d</id>
+      <masked>false</masked>
+      <name>textbool</name>
+   </variable>
+</TestCaseEntity>

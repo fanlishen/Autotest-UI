@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+chooseStudent,Chrome 68.0.3440.106,,2018-08-20 17:25:50,2018-08-20 17:26:27,36.955s,FAILED
+,,,,,,
+Test Cases/Common Test Cases/loginstudent,Chrome 68.0.3440.106,,2018-08-20 17:25:50,2018-08-20 17:25:56,5.763s,PASSED
+Statement - data = com.kms.katalon.core.testdata.TestDataFactory.findTestData(account),Chrome 68.0.3440.106,,2018-08-20 17:25:50,2018-08-20 17:25:50,0.009s,PASSED
+Statement - For (def index : (0..(data.getRowNumbers() - 1))),Chrome 68.0.3440.106,,2018-08-20 17:25:50,2018-08-20 17:25:56,5.590s,PASSED
+,,,,,,
+Test Cases/Common Test Cases/changePassword,Chrome 68.0.3440.106,,2018-08-20 17:25:56,2018-08-20 17:26:10,13.949s,FAILED
+setText,Chrome 68.0.3440.106,,2018-08-20 17:25:56,2018-08-20 17:26:10,13.832s,FAILED
+,,,,,,
+Test Cases/Main Test Cases/subjectInterest/subjectInterest,Chrome 68.0.3440.106,,2018-08-20 17:26:10,2018-08-20 17:26:18,8.163s,FAILED
+click,Chrome 68.0.3440.106,,2018-08-20 17:26:10,2018-08-20 17:26:18,8.037s,FAILED
+,,,,,,
+Test Cases/Main Test Cases/subjectInterest/subjectIntestSort,Chrome 68.0.3440.106,,2018-08-20 17:26:18,2018-08-20 17:26:26,8.156s,FAILED
+Statement - If (com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Page_subjcetInterest/page_sort/Page_/div_subjectinterestitem) != null),Chrome 68.0.3440.106,,2018-08-20 17:26:18,2018-08-20 17:26:26,8.033s,FAILED

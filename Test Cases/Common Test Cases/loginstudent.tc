@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>loginstudent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>48e5bf2e-eab8-4f4b-9d58-7b61188c0c89</testCaseGuid>
+   <variable>
+      <defaultValue>'08005098'</defaultValue>
+      <description></description>
+      <id>c0edc96b-a72a-4917-83da-c42ec47d40d5</id>
+      <masked>false</masked>
+      <name>account</name>
+   </variable>
+   <variable>
+      <defaultValue>'005098'</defaultValue>
+      <description></description>
+      <id>ad0d1aaf-6db6-476c-9767-aa9f7e8602d4</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://hangzhoudev.nicezhuanye.com/Nicezhuanye/webapp/login.html'</defaultValue>
+      <description></description>
+      <id>a6cf34a0-7e66-4890-bd54-b20b3abdf0cf</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

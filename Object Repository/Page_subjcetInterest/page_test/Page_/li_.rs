@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_</name>
+   <tag></tag>
+   <elementGuidId>8312a751-91f2-479f-8bc8-0dda44805278</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;app&quot;)/div[1]/div[1]/div[1]/div[1]/div[1]/div[@class=&quot;swiper-wrap-root&quot;]/div[@class=&quot;easy-swiper-wrapper clearfix&quot;]/div[@class=&quot;swiper-wrap&quot;]/div[@id=&quot;single-card&quot;]/div[@class=&quot;content&quot;]/ul[1]/li[2][count(. | //li[@data-reactid = '.0.0.0.0.0.1.0.0.1.1.1.$1' and (text() = '否' or . = '否')]) = count(//li[@data-reactid = '.0.0.0.0.0.1.0.0.1.1.1.$1' and (text() = '否' or . = '否')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-reactid</name>
+      <type>Main</type>
+      <value>.0.0.0.0.0.1.0.0.1.1.1.$1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>否</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[1]/div[1]/div[1]/div[1]/div[@class=&quot;swiper-wrap-root&quot;]/div[@class=&quot;easy-swiper-wrapper clearfix&quot;]/div[@class=&quot;swiper-wrap&quot;]/div[@id=&quot;single-card&quot;]/div[@class=&quot;content&quot;]/ul[1]/li[2]</value>
+   </webElementProperties>
+</WebElementEntity>

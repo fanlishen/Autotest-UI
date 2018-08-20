@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_polticy</name>
+   <tag></tag>
+   <elementGuidId>9cc56e51-b660-4f03-bd5a-b8d8d808bceb</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chooseIntentionDe active</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-reactid</name>
+      <type>Main</type>
+      <value>.0.0.0.0.0.1.3.1.0.0.3.$2.0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>政</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;recommandBox&quot;)/div[@class=&quot;layer-recommend-main&quot;]/div[@class=&quot;section&quot;]/div[@class=&quot;layer-recommend-content&quot;]/div[@class=&quot;subject-wrapper clearfix&quot;]/div[@class=&quot;am-u-sm-4  am-text-center&quot;]/div[@class=&quot;chooseIntentionDe active&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
